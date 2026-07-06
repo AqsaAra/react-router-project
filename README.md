@@ -1,7 +1,7 @@
 # react-router-project
 React application demonstrating routing using React Router and reusable components.
 
-This project demonstrates the implementation of routing in React using React Router.
+This project was developed as part of my Full Stack Development internship and includes the core React source files demonstrating React Router implementation.
 
 ## Features
 - Client-side routing
